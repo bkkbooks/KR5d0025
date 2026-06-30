@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR5d0025/v1
+canonical_location: https://kanripo.org/bkk/KR5d0025/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 周易參同契解
+  identifiers:
+    alt_id:
+    - DZ1007
+    - JY141
+  date: '2015-08-28 21:39:11.447289'
+  source:
+    repository: kanripo
+    path: KR5d0025
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  base_edition: CK-KZ
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- {short: CK-KZ, label: 【重刊道藏輯要】}
+- {short: CK-KZ-jye}
+- {short: HFL, label: 【正統道藏・涵芬樓版】}
+- {short: YP-C, label: 【原版道藏輯要】}
+- {short: ZTDZ, label: 【正統道藏・三家本】}
+assets:
+  parts: []
+table_of_contents: []
+hash: sha256:a042a2a44206f196442989bf91d49bc15b06dd55ebb41805399aa5983e4fe2a6
