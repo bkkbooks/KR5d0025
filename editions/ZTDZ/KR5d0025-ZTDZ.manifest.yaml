@@ -29,24 +29,48 @@ assets:
   - {seq: 3, filename: KR5d0025_003-ZTDZ.yaml, hash: 'sha256:e56df7400149b7ceda9dc13995986397ba762fd60fe7ed77646dd712a15c182b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR5d0025_000-ZTDZ.markers.yaml, hash: 'sha256:992ad05775d76273e6cfbebdf135c7163328ea27e3244fc68a27209965068907'}
-  - {seq: 1, role: markers, filename: assets/KR5d0025_001-ZTDZ.markers.yaml, hash: 'sha256:64164b995784f5371648711fb1f7b7d47e8ffd4eda67f61a7d267f4debf38980'}
+  - {seq: 1, role: markers, filename: assets/KR5d0025_001-ZTDZ.markers.yaml, hash: 'sha256:fc58f44123a3de4bec84c140f1816b7de89d54d80d0fe266916ff6efdd71e636'}
   - {seq: 2, role: markers, filename: assets/KR5d0025_002-ZTDZ.markers.yaml, hash: 'sha256:d7e8fe23cbae41953ccd9d377a6a021127f960e1b65bc9b5207db48e0719647b'}
-  - {seq: 3, role: markers, filename: assets/KR5d0025_003-ZTDZ.markers.yaml, hash: 'sha256:704001187caf99ea165b47035892f213aaf06b8b160145d0565281b564d0ce3a'}
+  - {seq: 3, role: markers, filename: assets/KR5d0025_003-ZTDZ.markers.yaml, hash: 'sha256:bb45b344e76e8f386d7c08737fcc7effea956fbbb42ddcba2223a85f6f272744'}
 table_of_contents:
-- ref: {seq: 0, marker_id: KR5d0025_SJB_000-200271b, span: [body, 0, 654]}
+- ref:
+    seq: 0
+    marker_id: KR5d0025_SJB_000-200271b
+    span:
+    - body
+    - 0
+    - 654
   label: juan 000
   type: section
   level: 1
-- ref: {seq: 1, marker_id: KR5d0025_SJB_001-200272a, span: [body, 0, 10160]}
+- ref:
+    seq: 1
+    marker_id: KR5d0025_SJB_001-200272a
+    span:
+    - body
+    - 0
+    - 10160
   label: juan 001
   type: section
   level: 1
-- ref: {seq: 2, marker_id: KR5d0025_SJB_002-200283b, span: [body, 0, 6229]}
+- ref:
+    seq: 2
+    marker_id: KR5d0025_SJB_002-200283b
+    span:
+    - body
+    - 0
+    - 6229
   label: juan 002
   type: section
   level: 1
-- ref: {seq: 3, marker_id: KR5d0025_SJB_003-200290c, span: [body, 0, 5066]}
+- ref:
+    seq: 3
+    marker_id: KR5d0025_SJB_003-200290c
+    span:
+    - body
+    - 0
+    - 5066
   label: juan 003
   type: section
   level: 1
-hash: sha256:06fff70e7f4fa88eb3b7be90adba01cb84bea383e71428f1c6f09566a38c08f9
+hash: sha256:fdc4154ffeabafb4160267ec72c2ed1addeb05e8c48fe1d9dd49625933f69306
